@@ -1,0 +1,28 @@
+/*  soal 1 */
+p {
+    color: #333;
+    line-height:1.6;
+}
+/*  soal 2 */
+.tombol {
+    background-color:blue;
+    color: white;
+    padding:10px 20px;
+}
+/* soal 3 */
+#header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+/* soal 4 */
+.nav .a {
+    color:white;
+    text-decoration: none;
+}
+/* soal 5 */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
